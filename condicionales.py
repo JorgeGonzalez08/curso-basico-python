@@ -21,7 +21,7 @@ if edad >= 18 and edad <= 100 :
 elif edad > 100 : 
     print("Tienes mas de 100 años")
 elif edad < 0 :
-    print("Favor de ontroducir valores positivos")
+    print("Favor de introducir valores positivos")
 else :
     print("Eres menor de edad")
 
